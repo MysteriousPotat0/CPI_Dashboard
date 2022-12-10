@@ -213,7 +213,7 @@ def update_chart(start_date, end_date):
             {'x': filtered_data['DATE'], 'y': filtered_data['Canada_Consumption'], 'type': 'lines',
              'name': 'Canada Oil Consumption'},
             {'x': filtered_data['DATE'], 'y': filtered_data['Europe_Consumption'], 'type': 'lines',
-             'name': 'Mexico Oil Consumption'},
+             'name': 'Europe Oil Consumption'},
         ],
         'layout': {
             'title':
