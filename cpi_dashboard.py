@@ -198,7 +198,7 @@ def update_chart(start_date, end_date):
         ],
         'layout': {
             'title':
-                {'text': 'Comparison of Different Crude Oil Prices',
+                {'text': 'North America Oil Production',
                  'x': 0.05},
             'xaxis': {'fixed_range': True},
             'yaxis': {'ticksuffix': ' Million Barrels', 'fixed_range': True},
@@ -217,7 +217,7 @@ def update_chart(start_date, end_date):
         ],
         'layout': {
             'title':
-                {'text': 'Comparison of Different Crude Oil Prices',
+                {'text': 'North America Oil Consumption',
                  'x': 0.05},
             'xaxis': {'fixed_range': True},
             'yaxis': {'ticksuffix': ' Million Barrels', 'fixed_range': True},
